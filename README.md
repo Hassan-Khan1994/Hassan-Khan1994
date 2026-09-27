@@ -72,8 +72,9 @@
 
 | Project | What it shows | Tools |
 |---------|---------------|-------|
-| 📊 **Power BI Sales Dashboard** | Interactive KPI dashboard: revenue, trends, and drill-downs | Power BI, DAX |
-| 📗 **Excel Interactive Dashboard** | Dynamic dashboard with pivots, slicers, and charts | Excel, Power Query |
+| 🧭 **[ERP Implementation — PM Case Study](https://github.com/Hassan-Khan1994/erp-implementation-project-management)** | Full project lifecycle: charter, WBS, RACI, risk register, schedule, status reports | Agile, Waterfall, Jira |
+| 📊 **[Power BI Sales Dashboard](https://github.com/Hassan-Khan1994/powerbi-sales-dashboard)** | Interactive KPI dashboard: revenue, trends, and drill-downs | Power BI, DAX |
+| 📗 **Excel Interactive Dashboard** *(coming soon)* | Dynamic dashboard with pivots, slicers, and charts | Excel, Power Query |
 
 ---
 
