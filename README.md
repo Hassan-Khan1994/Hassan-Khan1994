@@ -68,13 +68,32 @@
 
 ### 📈 Featured Projects
 
-> 🏗️ My portfolio is actively growing — check the pinned repositories below.
+> A portfolio of **10 projects** spanning Business Intelligence, Business Analysis, Project Management, and Business Development.
+
+**📈 Business Intelligence & Data Analysis**
 
 | Project | What it shows | Tools |
 |---------|---------------|-------|
-| 🧭 **[ERP Implementation — PM Case Study](https://github.com/Hassan-Khan1994/erp-implementation-project-management)** | Full project lifecycle: charter, WBS, RACI, risk register, schedule, status reports | Agile, Waterfall, Jira |
-| 📊 **[Power BI Sales Dashboard](https://github.com/Hassan-Khan1994/powerbi-sales-dashboard)** | Interactive KPI dashboard: revenue, trends, and drill-downs | Power BI, DAX |
-| 📗 **[Excel Interactive Dashboard](https://github.com/Hassan-Khan1994/excel-interactive-dashboard)** | Live dashboard with PivotTables, PivotCharts, and slicers | Excel, PivotCharts |
+| 📊 **[Power BI Sales Dashboard](https://github.com/Hassan-Khan1994/powerbi-sales-dashboard)** | Interactive KPI dashboard with data model & DAX (PBIP) | Power BI, DAX |
+| 📗 **[Excel Interactive Dashboard](https://github.com/Hassan-Khan1994/excel-interactive-dashboard)** | Live dashboard: PivotTables, PivotCharts, slicers | Excel |
+| 👥 **[HR Analytics Dashboard](https://github.com/Hassan-Khan1994/hr-analytics-dashboard)** | Headcount, attrition & pay analytics (interactive) | Excel |
+| 🗄️ **[SQL Sales Data Analysis](https://github.com/Hassan-Khan1994/sql-sales-data-analysis)** | Schema + 12 analytical queries (CTEs, window functions) | SQL |
+| 🧹 **[Data Cleaning & Preparation](https://github.com/Hassan-Khan1994/data-cleaning-preparation)** | Messy → clean data, documented & reproducible | Power Query (M) |
+
+**📋 Business Analysis**
+
+| Project | What it shows | Tools |
+|---------|---------------|-------|
+| 📋 **[CRM Requirements & Analysis](https://github.com/Hassan-Khan1994/business-analysis-crm-requirements)** | BRD, FRD, user stories, use cases, RTM | BA techniques |
+| 🔧 **[Process Improvement (DMAIC)](https://github.com/Hassan-Khan1994/process-improvement-case-study)** | Lean Six Sigma: −58% cycle time | Six Sigma |
+
+**🧭 Project Management & Business Development**
+
+| Project | What it shows | Tools |
+|---------|---------------|-------|
+| 🧭 **[ERP Implementation — PM Case Study](https://github.com/Hassan-Khan1994/erp-implementation-project-management)** | Charter, WBS, RACI, risk register, schedule | Agile, Waterfall |
+| 🏃 **[Agile Scrum Project Delivery](https://github.com/Hassan-Khan1994/agile-scrum-project-delivery)** | Backlog, sprints, burndown, retrospective | Scrum, Jira |
+| 🚀 **[Business Development & Growth](https://github.com/Hassan-Khan1994/business-development-growth-strategy)** | Market analysis, GTM, pipeline, growth KPIs | Strategy, BD |
 
 ---
 
