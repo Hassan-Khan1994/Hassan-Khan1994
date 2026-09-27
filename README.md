@@ -86,6 +86,8 @@
 |---------|---------------|-------|
 | 📋 **[CRM Requirements & Analysis](https://github.com/Hassan-Khan1994/business-analysis-crm-requirements)** | BRD, FRD, user stories, use cases, RTM | BA techniques |
 | 🔧 **[Process Improvement (DMAIC)](https://github.com/Hassan-Khan1994/process-improvement-case-study)** | Lean Six Sigma: −58% cycle time | Six Sigma |
+| 📑 **[BRD & FSD — Loan Origination App](https://github.com/Hassan-Khan1994/loan-origination-brd-fsd)** | Full BRD + FSD (Markdown & Word) | BRD, FSD |
+| 📦 **[BRD & FSD — Inventory App](https://github.com/Hassan-Khan1994/inventory-app-brd-fsd)** | BRD + FSD with flowcharts & wireframes | BRD, FSD, Wireframes |
 
 **🧭 Project Management & Business Development**
 
